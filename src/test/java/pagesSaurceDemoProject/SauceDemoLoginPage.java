@@ -35,7 +35,10 @@ public class SauceDemoLoginPage {
 		Password.sendKeys(Pass);
 		LoginButtonClick.click();
 		
+	}
+		
+	public void AddToCart()
+	{
 		
 	}
-
 }
